@@ -1,1 +1,2 @@
-# БСБО-04-19 Карасева М.С.
+# Practice for Intellectual Mobile Apps
+Карасева Мария БСБО-04-19
